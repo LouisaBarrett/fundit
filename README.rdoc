@@ -1,3 +1,3 @@
 == README
 
-Practic building a Rails app from scratch using rspec tests to drive development.
+Practice building a Rails app from scratch using rspec tests to drive development.
