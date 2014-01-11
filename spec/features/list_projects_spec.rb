@@ -3,7 +3,7 @@ require 'spec_helper'
 describe "Viewing the list of projects" do
 
   it "shows the projects" do
-    visit 'http://example.com/projects'
+    visit projects_url
 
     expect(page).to have_text("3 Projects")
     expect(page).to have_text('Project 1')
